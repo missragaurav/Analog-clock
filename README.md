@@ -1,1 +1,1 @@
-made by using css html and java script
+made by using java script, css and html
